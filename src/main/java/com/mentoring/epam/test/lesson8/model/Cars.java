@@ -10,7 +10,6 @@ public class Cars {
     private int mileage;
     private int price;
 
-    public Cars(){}
 
     public Cars(int id, String carName, String ownerName, int mileage,int price ){
         super();
