@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f3ba40-ab10-494c-992c-77e1bb1c6041" name="Default" comment="" />
+    <list default="true" id="d1f3ba40-ab10-494c-992c-77e1bb1c6041" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java" afterPath="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java" afterPath="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java" />
+    </list>
     <ignored path="Module-8.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,8 +36,8 @@
         <option name="CONDITION_ENABLED" value="true" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -50,8 +53,8 @@
         <option name="CONDITION_ENABLED" value="true" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
@@ -85,9 +88,11 @@
       <file leaf-file-name="TxtFileReader.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.6764706" vertical-offset="102" max-vertical-offset="1020">
+            <state line="36" column="31" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.7647059" vertical-offset="170" max-vertical-offset="1054">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1371#1372#0" expanded="true" />
+                <element signature="e#1402#1403#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,7 +101,7 @@
       <file leaf-file-name="Cars.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="969">
+            <state line="5" column="13" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
               <folding />
             </state>
           </provider>
@@ -105,7 +110,7 @@
       <file leaf-file-name="Executor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/Executor/Executor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="27" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="765">
+            <state line="34" column="27" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="765">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,9 +151,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/AbstractReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java" />
         <option value="$PROJECT_DIR$/car_info.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/Executor/Executor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java" />
       </list>
     </option>
@@ -535,7 +540,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Module-8" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -566,7 +577,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955604" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -599,7 +610,11 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -625,6 +640,8 @@
         <state line="2" column="30" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1088">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1402#1403#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -680,27 +697,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/Executor/Executor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="27" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="765">
+        <state line="34" column="27" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="765">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="969">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.6764706" vertical-offset="102" max-vertical-offset="1020">
+        <state line="36" column="31" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.7647059" vertical-offset="170" max-vertical-offset="1054">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1402#1403#0" expanded="true" />
           </folding>
         </state>
       </provider>

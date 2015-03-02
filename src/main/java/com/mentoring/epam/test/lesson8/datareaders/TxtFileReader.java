@@ -23,7 +23,7 @@ public class TxtFileReader extends AbstractReader {
     public Cars readInfo(int id){
         File f = new File(getFullPath());
         BufferedReader br = null;
-        String str = null;
+        String str;
         Cars cars = null;
         try {
             br = new BufferedReader(new FileReader(f));

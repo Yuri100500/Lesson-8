@@ -12,7 +12,6 @@ public class Cars {
 
 
     public Cars(int id, String carName, String ownerName, int mileage,int price ){
-        super();
         this.id = id;
         this.carName = carName;
         this.ownerName = ownerName;
