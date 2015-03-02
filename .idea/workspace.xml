@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f3ba40-ab10-494c-992c-77e1bb1c6041" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java" afterPath="$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java" />
-    </list>
+    <list default="true" id="d1f3ba40-ab10-494c-992c-77e1bb1c6041" name="Default" comment="" />
     <ignored path="Module-8.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,10 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TxtFileReader.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TxtFileReader.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1020">
+            <state line="29" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.6764706" vertical-offset="102" max-vertical-offset="1020">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cars.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Cars.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.20588236" vertical-offset="68" max-vertical-offset="969">
+            <state line="11" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="969">
               <folding />
             </state>
           </provider>
@@ -675,15 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1020">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/car_info.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
@@ -702,8 +691,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/model/Cars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.20588236" vertical-offset="68" max-vertical-offset="969">
+        <state line="11" column="0" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="969">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mentoring/epam/test/lesson8/datareaders/TxtFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.6764706" vertical-offset="102" max-vertical-offset="1020">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
