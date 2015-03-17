@@ -15,8 +15,7 @@ public class TxtFileReader extends AbstractReader {
     private String fullPath;
 
     public TxtFileReader(String fullPath){
-        super();
-        this.fullPath =fullPath;
+        this.fullPath = fullPath;
     }
 
     @Override
@@ -30,8 +29,11 @@ public class TxtFileReader extends AbstractReader {
 
             while ((str = br.readLine())!=null){
                 String[] info = str.split(":");
-                if (Integer.parseInt(info[0])== id){
+                if (Integer.parseInt(info[0]) == id)
+                try {
                     cars = new Cars(Integer.parseInt(info[0]), info[1], info[2], Integer.parseInt(info[3]), Integer.parseInt(info[4]));
+                }catch (Exception ex){
+                    System.out.println("The current position is incorrect, please choose another position");
                 }
             }
         }catch (IOException e){

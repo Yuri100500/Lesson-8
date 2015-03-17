@@ -32,39 +32,39 @@ public class Cars {
         return id;
     }
 
-    public void setId(int id){
+/*    public void setId(int id){
         this.id = id;
-    }
+    }*/
 
     public String getCarName(){
         return carName;
     }
 
-    public void setCarName(String carName){
+/*    public void setCarName(String carName){
         this.carName = carName;
-    }
+    }*/
 
     public String getOwnerName(){
         return  ownerName;
     }
 
-    public void setOwnerName(String ownerName){
+/*    public void setOwnerName(String ownerName){
         this.ownerName = ownerName;
-    }
+    }*/
 
     public int getMileage(){
         return mileage;
     }
 
-    public void setMileage(int mileage){
+   /* public void setMileage(int mileage){
         this.mileage = mileage;
-    }
+    }*/
 
     public int getPrice(){
         return price;
     }
 
-    public void setPrice(int price){
+  /*  public void setPrice(int price){
         this.price = price;
-    }
+    }*/
 }
